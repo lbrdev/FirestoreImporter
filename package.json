@@ -1,0 +1,14 @@
+{
+  "name": "FirestoreImporter",
+  "version": "0.0.1",
+  "description": "none",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lbrdev",
+  "license": "MIT",
+  "dependencies": {
+    "firestore-export-import": "^0.2.3"
+  }
+}
